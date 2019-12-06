@@ -143,5 +143,8 @@ export class TreeComponent implements OnInit {
 
   updateGraph(d) {
     console.log('test' + d);
+
+
+
   }
 }
